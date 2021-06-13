@@ -13,7 +13,7 @@ class UserAgentManager {
   }
 
   build(ua) {
-    this.userAgent = `Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36`;
+    this.userAgent = `Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.35 Chrome/91.0.4472.77 Electron/13.0.1 Safari/537.36`;
   }
 }
 
